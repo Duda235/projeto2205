@@ -1,0 +1,14 @@
+h1{
+    color: darkblue;
+    text-align: center;
+}
+#total{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+#topo{
+    width: 1000px;
+    height: 100px;
+     background-color: dimgray;
+}
